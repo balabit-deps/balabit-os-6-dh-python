@@ -1,3 +1,9 @@
+dh-python (2.20151103ubuntu1.2) xenial-security; urgency=medium
+
+  * No change rebuild to get fixed dh-python into xenial-security.
+
+ -- Steve Beattie <sbeattie@ubuntu.com>  Thu, 15 Aug 2019 17:17:27 -0700
+
 dh-python (2.20151103ubuntu1.1) xenial; urgency=medium
 
   * dhpython/pydist.py: Ensure that != dependency versions are ignored
